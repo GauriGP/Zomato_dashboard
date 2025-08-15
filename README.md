@@ -3,7 +3,7 @@ Restaurant Orders Dashboard – Power BI Project
 Overview: 
 Designed and developed an interactive Power BI dashboard to analyze restaurant sales, 
 customer demographics, and ordering patterns, enabling data-driven decision-making for 
-business growth. 
+business growth.  
 
 1. Data Collection & Import 
  Gathered multiple datasets: restaurant details, menu items, orders, order types, and 
