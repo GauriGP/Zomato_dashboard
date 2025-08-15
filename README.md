@@ -1,4 +1,5 @@
-Restaurant Orders Dashboard – Power BI Project 
+Restaurant Orders Dashboard – Power BI Project
+
 Overview: 
 Designed and developed an interactive Power BI dashboard to analyze restaurant sales, 
 customer demographics, and ordering patterns, enabling data-driven decision-making for 
